@@ -1,0 +1,61 @@
+
+  0%|                                                                                    | 0/994590 [00:00<?, ?it/s]
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aXhDCLQo_m_0cc2db61b6c88358d6a3a8faefa1067f_sx_102995_www800-800.pngimage not exist, download it
+image not exist, download itimage not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/WmSDucgi_m_978fe09e15b5d5322982b817bea701dc_sx_92051_www600-600.png
+ /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/wlWOlTUJ_m_7503325a5d11b106acb191db0eb9ecd3_sx_137210_www800-800.png/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ayTRiRQo_m_4079026e05de76c7eaab3c5cc5662ed4_sx_157794_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/aXhDCLQo_m_0cc2db61b6c88358d6a3a8faefa1067f_sx_102995_www800-800
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'Pdb' object has no attribute 'do_trainer'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 123, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 273, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aXhDCLQo_m_0cc2db61b6c88358d6a3a8faefa1067f_sx_102995_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wlWOlTUJ_m_7503325a5d11b106acb191db0eb9ecd3_sx_137210_www800-800
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'Pdb' object has no attribute 'do_trainer'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 123, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 273, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/wlWOlTUJ_m_7503325a5d11b106acb191db0eb9ecd3_sx_137210_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/WmSDucgi_m_978fe09e15b5d5322982b817bea701dc_sx_92051_www600-600
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'Pdb' object has no attribute 'do_trainer'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 123, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 273, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/WmSDucgi_m_978fe09e15b5d5322982b817bea701dc_sx_92051_www600-600.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ayTRiRQo_m_4079026e05de76c7eaab3c5cc5662ed4_sx_157794_www800-800
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'Pdb' object has no attribute 'do_trainer'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 123, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 273, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ayTRiRQo_m_4079026e05de76c7eaab3c5cc5662ed4_sx_157794_www800-800.png'
