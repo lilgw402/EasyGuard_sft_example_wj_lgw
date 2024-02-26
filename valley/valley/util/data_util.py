@@ -196,18 +196,14 @@ def preprocess_multimodal(
     sources: Sequence[str], #字符串序列（`sources`）作为输入，其中每个字符串包含可能带有特殊多媒体标记的对话消息。
     data_args,
 ) -> Dict:
-    breakpoint()
     is_multimodal = data_args.is_multimodal
     if not is_multimodal:
         return sources #如果不是多模态数据，则立即返回未修改的 `sources`
 
     for source in sources:
-        breakpoint()
         for sentence in source:
-            breakpoint()
             if data_args.model_class == 'valley-product': #可能涉及到支持特定于 `'valley-product'` 配置的图像处理（例如多图像支持）
                 # for multi image
-                breakpoint()
                 segs = re.split(r'<image[\d]*>',sentence["value"]) #按（图像标记）拆分句子
                 #拆分后，它只保留 `data_args.max_img_num` 指定数量的图像标记，并去除剩余的部分。然后，它使用 `''` 重新连接这些字串
                 sentence["value"] = '<image>'.join(segs[:data_args.max_img_num+1]) + ' '.join(segs[data_args.max_img_num+1:])

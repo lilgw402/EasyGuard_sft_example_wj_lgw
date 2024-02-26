@@ -52,7 +52,7 @@ class LazySupervisedDataset(Dataset):
         print(list_data_dict[:2])
 
         #如果设置了 `video_data_path`，它还尝试加载包含视频相关数据的文件
-        if data_args.video_data_path is None:
+        if data_args.video_data_path is None: #None
             list_video_data_dict = []
         elif os.path.isfile(data_args.video_data_path):
             list_video_data_dict = json.load(open(data_args.video_data_path, "r")) if data_args.video_data_path else []
@@ -93,7 +93,6 @@ class LazySupervisedDataset(Dataset):
 
     #获取给定索引（i）的输入数据，进行处理，并以准备好的格式返回，以便模型训练或推理使用
     def __getitem__(self, i) -> Dict[str, torch.Tensor]:
-        breakpoint()
         sources = self.list_data_dict[i] #获取索引为 `i` 的数据实例。
         try:
             if isinstance(i, int):
@@ -282,9 +281,11 @@ def make_supervised_data_module(tokenizer: transformers.PreTrainedTokenizer,
 def read_and_download_img(imgurl, image_folder='/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data'):
     name = imgurl.split('/')[-1]
     img_path = os.path.join(image_folder, name + f'.png')
+    print(img_path)
     
     if os.path.exists(img_path):
         img_data = Image.open(img_path).convert('RGB')
+        print(img_data)
     else:
         print('image not exist, download it', img_path)
         image_data = urllib.request.urlopen(imgurl, timeout=2).read()

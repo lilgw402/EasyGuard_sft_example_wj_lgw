@@ -1,0 +1,1739 @@
+  0%|                                                                                    | 0/994590 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_2aa0c1286d33bf4abc5a9bd98a626333_sx_438376_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/KvvUJvSC_m_09e83ddc76a1355dd3a29e04e18d61d7_sx_232942_www600-600.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_71802ebe02e50a46117d0d80c56abfaf_sx_110107_www600-600.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_e09266ae886cae471c8e6c5eac5e7bb9_sx_498513_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_e09266ae886cae471c8e6c5eac5e7bb9_sx_498513_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_71802ebe02e50a46117d0d80c56abfaf_sx_110107_www600-600.png
+<PIL.Image.Image image mode=RGB size=600x600 at 0x7FD9B1831AC0>
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FD9B18317C0>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/KvvUJvSC_m_08189173e4527565383798f17f67418c_sx_169932_www600-600.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/yJVIisHT_m_71802ebe02e50a46117d0d80c56abfaf_sx_110107_www600-600
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_ebb67663494abbe8c06bdfdc105278ad_sx_442961_www800-800.png
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_71802ebe02e50a46117d0d80c56abfaf_sx_110107_www600-600.png'
+<PIL.Image.Image image mode=RGB size=600x600 at 0x7FDA90BB7D00>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_3e51883cbb7dd93b817e4ab482df7b0b_sx_185177_www600-600.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_3e51883cbb7dd93b817e4ab482df7b0b_sx_185177_www600-600.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/KvvUJvSC_m_ab1fa1abb7a1934030cf7dddbd7bc6c8_sx_173419_www600-600.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_e09266ae886cae471c8e6c5eac5e7bb9_sx_498513_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_e09266ae886cae471c8e6c5eac5e7bb9_sx_498513_www800-800.png'
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B77FD0>
+<PIL.Image.Image image mode=RGB size=600x600 at 0x7FD9B1831B20>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c6a748571c22be7b35495d046f5b45df_sx_514511_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c6a748571c22be7b35495d046f5b45df_sx_514511_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/KvvUJvSC_m_e68daecddc0e82bdd8dfe9c5eba29c7f_sx_129509_www600-600.png/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_a41a7579a274fbb9b8d8c09f23d5b28a_sx_381151_www800-800.png
+<PIL.Image.Image image mode=RGB size=600x600 at 0x7FD9B18319A0>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/yJVIisHT_m_3e51883cbb7dd93b817e4ab482df7b0b_sx_185177_www600-600
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_3e51883cbb7dd93b817e4ab482df7b0b_sx_185177_www600-600.png'
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FD9B18317C0>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_2ee2b9a20c74042d0afb4c54882080a5_sx_136106_www600-600.png
+image not exist, download it/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/KvvUJvSC_m_fe3c5670a717b3ce50c3f7180cb6e7f2_sx_226139_www600-600.png /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_2ee2b9a20c74042d0afb4c54882080a5_sx_136106_www600-600.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_3cd14663611c8351976cf7c9f66dabd2_sx_434633_www800-800.png
+<PIL.Image.Image image mode=RGB size=600x600 at 0x7FD9B1831AC0>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/KvvUJvSC_m_09e83ddc76a1355dd3a29e04e18d61d7_sx_232942_www600-600.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B84F40>
+<PIL.Image.Image image mode=RGB size=600x600 at 0x7FD9B1831B20>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/KvvUJvSC_m_e31d590bb752df614b233d274261d504_sx_582304_www600-2365.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_f74e795869db9a6baa5477c69ab0ef68_sx_395408_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/yJVIisHT_m_2ee2b9a20c74042d0afb4c54882080a5_sx_136106_www600-600
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_2ee2b9a20c74042d0afb4c54882080a5_sx_136106_www600-600.png'
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B92A00>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_c6a748571c22be7b35495d046f5b45df_sx_514511_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c6a748571c22be7b35495d046f5b45df_sx_514511_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_71802ebe02e50a46117d0d80c56abfaf_sx_110107_www600-600.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_71802ebe02e50a46117d0d80c56abfaf_sx_110107_www600-600.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_792e9097decce0ce2fb5434f8aedc834_sx_464289_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_792e9097decce0ce2fb5434f8aedc834_sx_464289_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_7e9466bdba5a593e854e5c625cca6c6a_sx_618105_www800-800.png
+<PIL.Image.Image image mode=RGB size=600x2365 at 0x7FD9B18319D0>
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FD9B1831730>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/yJVIisHT_m_71802ebe02e50a46117d0d80c56abfaf_sx_110107_www600-600
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_71802ebe02e50a46117d0d80c56abfaf_sx_110107_www600-600.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_3ba44df930ba19f3b391a0c389a9efbb_sx_529504_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_2ee2b9a20c74042d0afb4c54882080a5_sx_136106_www600-600.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_2ee2b9a20c74042d0afb4c54882080a5_sx_136106_www600-600.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_792e9097decce0ce2fb5434f8aedc834_sx_464289_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_792e9097decce0ce2fb5434f8aedc834_sx_464289_www800-800.png'
+remark_3626896973124220083_7254153007015739703
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_fa6126fa0c867cc945e344842652e69a_sx_100939_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_fa6126fa0c867cc945e344842652e69a_sx_100939_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_2e50e4b8e32786197ec946c2a375bb4b_sx_529142_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_2e50e4b8e32786197ec946c2a375bb4b_sx_529142_www800-800.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B690A0>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_24b570067c081cdd76035b24d25b4aa7_sx_619304_www800-800.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B92EB0>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_2e50e4b8e32786197ec946c2a375bb4b_sx_529142_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_2e50e4b8e32786197ec946c2a375bb4b_sx_529142_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/yJVIisHT_m_2ee2b9a20c74042d0afb4c54882080a5_sx_136106_www600-600
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_2ee2b9a20c74042d0afb4c54882080a5_sx_136106_www600-600.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_fa6126fa0c867cc945e344842652e69a_sx_100939_www800-800
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c7018f7e1c95c89ce89aced86f9a723e_sx_226423_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_2aa0c1286d33bf4abc5a9bd98a626333_sx_438376_www800-800.png
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_fa6126fa0c867cc945e344842652e69a_sx_100939_www800-800.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c7018f7e1c95c89ce89aced86f9a723e_sx_226423_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_3e51883cbb7dd93b817e4ab482df7b0b_sx_185177_www600-600.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_3e51883cbb7dd93b817e4ab482df7b0b_sx_185177_www600-600.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_cfd6f96ce93f1f35e6c4a6539daf0cfa_sx_73205_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_cfd6f96ce93f1f35e6c4a6539daf0cfa_sx_73205_www800-800.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FD9B1831730>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_a41a7579a274fbb9b8d8c09f23d5b28a_sx_381151_www800-800.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B77C40>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_cfd6f96ce93f1f35e6c4a6539daf0cfa_sx_73205_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_cfd6f96ce93f1f35e6c4a6539daf0cfa_sx_73205_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/yJVIisHT_m_3e51883cbb7dd93b817e4ab482df7b0b_sx_185177_www600-600
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yJVIisHT_m_3e51883cbb7dd93b817e4ab482df7b0b_sx_185177_www600-600.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_0bf60d610a4b63941d75d2df9bf98636_sx_102544_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_0bf60d610a4b63941d75d2df9bf98636_sx_102544_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_c7018f7e1c95c89ce89aced86f9a723e_sx_226423_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c7018f7e1c95c89ce89aced86f9a723e_sx_226423_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_ac2ace1352226f65b83513adbd2387f6_sx_135915_www790-1063.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_84ec3c4d1557ff3194e355d71d1db2d1_sx_610730_www790-1494.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb) image not exist, download it
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_84ec3c4d1557ff3194e355d71d1db2d1_sx_610730_www790-1494.png
+remark_3621316554085522893_7242633100231082240
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_0c38ab06501a19a1f5997362839282e0_sx_201300_www1080-1080.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_0c38ab06501a19a1f5997362839282e0_sx_201300_www1080-1080.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_0bf60d610a4b63941d75d2df9bf98636_sx_102544_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_0bf60d610a4b63941d75d2df9bf98636_sx_102544_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_7ef285053c54d217ea1e3d5907689554_sx_84117_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_7ef285053c54d217ea1e3d5907689554_sx_84117_www800-800.png
+<PIL.Image.Image image mode=RGB size=790x1063 at 0x7FD9B183C5B0>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EAHfdOqt_m_59fea4d74ccce766de242473e90725ef_sx_55712_www790-1097.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_0c38ab06501a19a1f5997362839282e0_sx_201300_www1080-1080
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_0c38ab06501a19a1f5997362839282e0_sx_201300_www1080-1080.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_7ef285053c54d217ea1e3d5907689554_sx_84117_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_7ef285053c54d217ea1e3d5907689554_sx_84117_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_97285e0b443b1c7f6c0403e68def6bf3_sx_144629_www790-790.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_84ec3c4d1557ff3194e355d71d1db2d1_sx_610730_www790-1494
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_84ec3c4d1557ff3194e355d71d1db2d1_sx_610730_www790-1494.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_97285e0b443b1c7f6c0403e68def6bf3_sx_144629_www790-790.png
+<PIL.Image.Image image mode=RGB size=790x1097 at 0x7FDA90BA24F0>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_69db7ef4649d46f61566475a27ed2a9a_sx_71304_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_69db7ef4649d46f61566475a27ed2a9a_sx_71304_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c433e038923f0e2b55c934c814c85ab5_sx_793442_www790-1807.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c433e038923f0e2b55c934c814c85ab5_sx_793442_www790-1807.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3629621840122624563_7259243669180399929
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_ceac9db61ab0d4895e388bc7fa4c8708_sx_357897_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_ceac9db61ab0d4895e388bc7fa4c8708_sx_357897_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_69db7ef4649d46f61566475a27ed2a9a_sx_71304_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_69db7ef4649d46f61566475a27ed2a9a_sx_71304_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_30b2cef26d28233760f4856d3c07b8d9_sx_82465_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_30b2cef26d28233760f4856d3c07b8d9_sx_82465_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_97285e0b443b1c7f6c0403e68def6bf3_sx_144629_www790-790
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_97285e0b443b1c7f6c0403e68def6bf3_sx_144629_www790-790.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_33e782fb0a824c520212f5749e39b8f7_sx_51830_www790-790.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_33e782fb0a824c520212f5749e39b8f7_sx_51830_www790-790.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_c433e038923f0e2b55c934c814c85ab5_sx_793442_www790-1807
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_c433e038923f0e2b55c934c814c85ab5_sx_793442_www790-1807.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_f399fa03cf29cff60eb059a255f60dc9_sx_942951_www790-1396.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_f399fa03cf29cff60eb059a255f60dc9_sx_942951_www790-1396.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_ceac9db61ab0d4895e388bc7fa4c8708_sx_357897_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_ceac9db61ab0d4895e388bc7fa4c8708_sx_357897_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_97c4025e4b25acb00346ba80fc76ad97_sx_350022_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_97c4025e4b25acb00346ba80fc76ad97_sx_350022_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_30b2cef26d28233760f4856d3c07b8d9_sx_82465_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_30b2cef26d28233760f4856d3c07b8d9_sx_82465_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_33e782fb0a824c520212f5749e39b8f7_sx_51830_www790-790
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_e2dbe77b8b8e8469818f2f490bea8179_sx_91034_www800-800.png
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_33e782fb0a824c520212f5749e39b8f7_sx_51830_www790-790.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_e2dbe77b8b8e8469818f2f490bea8179_sx_91034_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_85d96d867b7d1803a48bb30717fef53d_sx_44065_www790-790.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_85d96d867b7d1803a48bb30717fef53d_sx_44065_www790-790.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_f399fa03cf29cff60eb059a255f60dc9_sx_942951_www790-1396
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_f399fa03cf29cff60eb059a255f60dc9_sx_942951_www790-1396.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_e2dbe77b8b8e8469818f2f490bea8179_sx_91034_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_e2dbe77b8b8e8469818f2f490bea8179_sx_91034_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_0afb853cfc692b49aca0e00b45e52a8f_sx_564694_www790-1070.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_0afb853cfc692b49aca0e00b45e52a8f_sx_564694_www790-1070.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_5586390e7492ed5215c7f97497b10828_sx_106426_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_5586390e7492ed5215c7f97497b10828_sx_106426_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_97c4025e4b25acb00346ba80fc76ad97_sx_350022_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_97c4025e4b25acb00346ba80fc76ad97_sx_350022_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_85d96d867b7d1803a48bb30717fef53d_sx_44065_www790-790
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_85d96d867b7d1803a48bb30717fef53d_sx_44065_www790-790.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_ecd7081d769cb3f216e479a36609fac2_sx_400687_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_ecd7081d769cb3f216e479a36609fac2_sx_400687_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_68886c698c178a00bcb2d6177d4110b6_sx_45864_www790-790.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_68886c698c178a00bcb2d6177d4110b6_sx_45864_www790-790.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_5586390e7492ed5215c7f97497b10828_sx_106426_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_5586390e7492ed5215c7f97497b10828_sx_106426_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_7a8215f14291344401c27b9fcddd8c7a_sx_80758_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_7a8215f14291344401c27b9fcddd8c7a_sx_80758_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_68886c698c178a00bcb2d6177d4110b6_sx_45864_www790-790
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_68886c698c178a00bcb2d6177d4110b6_sx_45864_www790-790.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_ecd7081d769cb3f216e479a36609fac2_sx_400687_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_ecd7081d769cb3f216e479a36609fac2_sx_400687_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_5a94ab59fbeb76b6b332cf15b6c4e970_sx_112187_www790-790.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_5a94ab59fbeb76b6b332cf15b6c4e970_sx_112187_www790-790.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_27f5c8aa70d74d054206cbe8488c5b7f_sx_449194_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_27f5c8aa70d74d054206cbe8488c5b7f_sx_449194_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_0afb853cfc692b49aca0e00b45e52a8f_sx_564694_www790-1070
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_0afb853cfc692b49aca0e00b45e52a8f_sx_564694_www790-1070.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_cedb70a1ee434d2083aac8fb28eb90a7_sx_606262_www790-1395.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_cedb70a1ee434d2083aac8fb28eb90a7_sx_606262_www790-1395.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_7a8215f14291344401c27b9fcddd8c7a_sx_80758_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_7a8215f14291344401c27b9fcddd8c7a_sx_80758_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_3d76ce9d6d30b0a6f98cbd282aebb5bb_sx_104072_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_3d76ce9d6d30b0a6f98cbd282aebb5bb_sx_104072_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_5a94ab59fbeb76b6b332cf15b6c4e970_sx_112187_www790-790
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_5a94ab59fbeb76b6b332cf15b6c4e970_sx_112187_www790-790.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_633b8335503a8cf787286736215effde_sx_90076_www718-718.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_633b8335503a8cf787286736215effde_sx_90076_www718-718.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_27f5c8aa70d74d054206cbe8488c5b7f_sx_449194_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_27f5c8aa70d74d054206cbe8488c5b7f_sx_449194_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_3b36b7bb70112f36f2802aba2a4b7406_sx_442077_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_3b36b7bb70112f36f2802aba2a4b7406_sx_442077_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_cedb70a1ee434d2083aac8fb28eb90a7_sx_606262_www790-1395
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_cedb70a1ee434d2083aac8fb28eb90a7_sx_606262_www790-1395.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_debc5edcdd8ad007626f3d63a8b8b44c_sx_472127_www790-1326.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_debc5edcdd8ad007626f3d63a8b8b44c_sx_472127_www790-1326.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_3d76ce9d6d30b0a6f98cbd282aebb5bb_sx_104072_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_3d76ce9d6d30b0a6f98cbd282aebb5bb_sx_104072_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_633b8335503a8cf787286736215effde_sx_90076_www718-718
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_633b8335503a8cf787286736215effde_sx_90076_www718-718.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_2d17404d9626c390e67ecb9ac56462b4_sx_137793_www750-961.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_2d17404d9626c390e67ecb9ac56462b4_sx_137793_www750-961.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_576f73d0100e479c5993fd315fa3182d_sx_92414_www718-718.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_576f73d0100e479c5993fd315fa3182d_sx_92414_www718-718.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_2d17404d9626c390e67ecb9ac56462b4_sx_137793_www750-961
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_2d17404d9626c390e67ecb9ac56462b4_sx_137793_www750-961.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_3b36b7bb70112f36f2802aba2a4b7406_sx_442077_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_3b36b7bb70112f36f2802aba2a4b7406_sx_442077_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_a043aa733e0e86852fb5e02a22488c06_sx_83203_www750-960.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_51d029b0ffc0d61a83f8b5fe51511dd1_sx_332922_www800-800.pngdown img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_576f73d0100e479c5993fd315fa3182d_sx_92414_www718-718
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_576f73d0100e479c5993fd315fa3182d_sx_92414_www718-718.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_a043aa733e0e86852fb5e02a22488c06_sx_83203_www750-960.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_51d029b0ffc0d61a83f8b5fe51511dd1_sx_332922_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_ce0ee195f6dd8a30787ef87f31f9045a_sx_90196_www718-718.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_ce0ee195f6dd8a30787ef87f31f9045a_sx_90196_www718-718.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_debc5edcdd8ad007626f3d63a8b8b44c_sx_472127_www790-1326
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_debc5edcdd8ad007626f3d63a8b8b44c_sx_472127_www790-1326.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_80da7b266a49abb9964d105f1f3f99b7_sx_514923_www790-1660.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_80da7b266a49abb9964d105f1f3f99b7_sx_514923_www790-1660.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_51d029b0ffc0d61a83f8b5fe51511dd1_sx_332922_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_51d029b0ffc0d61a83f8b5fe51511dd1_sx_332922_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_6dbe28b2a395f5ec1a81ff43a291af64_sx_418945_www790-1220.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_6dbe28b2a395f5ec1a81ff43a291af64_sx_418945_www790-1220.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_ce0ee195f6dd8a30787ef87f31f9045a_sx_90196_www718-718
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_ce0ee195f6dd8a30787ef87f31f9045a_sx_90196_www718-718.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/geOHrvKx_m_a043aa733e0e86852fb5e02a22488c06_sx_83203_www750-960
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/geOHrvKx_m_a043aa733e0e86852fb5e02a22488c06_sx_83203_www750-960.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_1c0afdcf8c69c103ff17a774a6a6f9ee_sx_89052_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_1c0afdcf8c69c103ff17a774a6a6f9ee_sx_89052_www800-800.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3632786399767493981_7265572796980412672
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_22f5668c243d0eddf4edb8d2589634f4_sx_125830_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_22f5668c243d0eddf4edb8d2589634f4_sx_125830_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/mhvMoigl_m_80da7b266a49abb9964d105f1f3f99b7_sx_514923_www790-1660
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/mhvMoigl_m_80da7b266a49abb9964d105f1f3f99b7_sx_514923_www790-1660.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_22f5668c243d0eddf4edb8d2589634f4_sx_125830_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_22f5668c243d0eddf4edb8d2589634f4_sx_125830_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_1c0afdcf8c69c103ff17a774a6a6f9ee_sx_89052_www800-800
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodalTraceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_1c0afdcf8c69c103ff17a774a6a6f9ee_sx_89052_www800-800.png'
+(Pdb)
+remark_3612565250769091509_7234401031990411531
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_c8664ce95e7c09cfcc5bfe22f2cb471c_sx_482853_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_c8664ce95e7c09cfcc5bfe22f2cb471c_sx_482853_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_9734b4c906668a29a261b47719864806_sx_151935_www790-890.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_6dbe28b2a395f5ec1a81ff43a291af64_sx_418945_www790-1220
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_6dbe28b2a395f5ec1a81ff43a291af64_sx_418945_www790-1220.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_9734b4c906668a29a261b47719864806_sx_151935_www790-890.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_bbb54d765ca418919a235a5444453cea_sx_444507_www790-960.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_bbb54d765ca418919a235a5444453cea_sx_444507_www790-960.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_9734b4c906668a29a261b47719864806_sx_151935_www790-890
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_9734b4c906668a29a261b47719864806_sx_151935_www790-890.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_4e6e43225acedd500113b364cf9d518f_sx_126862_www790-870.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_4e6e43225acedd500113b364cf9d518f_sx_126862_www790-870.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_08aa6d662aa4e90001957d6e48f73c13_sx_142022_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_08aa6d662aa4e90001957d6e48f73c13_sx_142022_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_bbb54d765ca418919a235a5444453cea_sx_444507_www790-960
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_bbb54d765ca418919a235a5444453cea_sx_444507_www790-960.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_c8664ce95e7c09cfcc5bfe22f2cb471c_sx_482853_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_c8664ce95e7c09cfcc5bfe22f2cb471c_sx_482853_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_440b0b8b14447bdced46fd89c5eadccf_sx_695293_www790-1220.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_440b0b8b14447bdced46fd89c5eadccf_sx_695293_www790-1220.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_5324681ce015ee2aa61352ed61521a77_sx_66737_www571-571.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_5324681ce015ee2aa61352ed61521a77_sx_66737_www571-571.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/VjbAXnZh_m_4e6e43225acedd500113b364cf9d518f_sx_126862_www790-870
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/VjbAXnZh_m_4e6e43225acedd500113b364cf9d518f_sx_126862_www790-870.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_08aa6d662aa4e90001957d6e48f73c13_sx_142022_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_08aa6d662aa4e90001957d6e48f73c13_sx_142022_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_c989ee1f72ec5d33b076ab127cc6df55_sx_72881_www682-682.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_c989ee1f72ec5d33b076ab127cc6df55_sx_72881_www682-682.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3637488673886437993_7274977344841220392down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_5324681ce015ee2aa61352ed61521a77_sx_66737_www571-571
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/YhSpOOLV_m_838f38aff5e15c9f839848c4c512330c_sx_314251_www800-800.png
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_5324681ce015ee2aa61352ed61521a77_sx_66737_www571-571.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_1ed2d6da6c143cd4a875f0fd46cc6290_sx_401550_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_1ed2d6da6c143cd4a875f0fd46cc6290_sx_401550_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_440b0b8b14447bdced46fd89c5eadccf_sx_695293_www790-1220
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_440b0b8b14447bdced46fd89c5eadccf_sx_695293_www790-1220.png'
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B08910>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_fa8ef900aa139d36ac6d2b934ff8a1fc_sx_316352_www790-1120.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_fa8ef900aa139d36ac6d2b934ff8a1fc_sx_316352_www790-1120.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/bNzKpgMc_m_2f0f3a1e8ecbbfc115eaaff25c96e2aa_sx_52175_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_1ed2d6da6c143cd4a875f0fd46cc6290_sx_401550_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_1ed2d6da6c143cd4a875f0fd46cc6290_sx_401550_www800-800.png'
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B4EC10>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_ed3fcf264944f3a1764ceb4084853d72_sx_139854_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_ed3fcf264944f3a1764ceb4084853d72_sx_139854_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_c989ee1f72ec5d33b076ab127cc6df55_sx_72881_www682-682
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_c989ee1f72ec5d33b076ab127cc6df55_sx_72881_www682-682.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/kOMXuKKF_m_b2ab79f35c11b23b263b6d5f5ca23317_sx_71931_www1080-1080.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_ec33f2fe2d97f03b726582dd68d67254_sx_73024_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_ec33f2fe2d97f03b726582dd68d67254_sx_73024_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_fa8ef900aa139d36ac6d2b934ff8a1fc_sx_316352_www790-1120
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_fa8ef900aa139d36ac6d2b934ff8a1fc_sx_316352_www790-1120.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_65c4bcff9674299cb69f40179e39cf10_sx_333216_www790-920.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_65c4bcff9674299cb69f40179e39cf10_sx_333216_www790-920.png
+<PIL.Image.Image image mode=RGB size=1080x1080 at 0x7FDA90B089D0>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_ed3fcf264944f3a1764ceb4084853d72_sx_139854_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_ed3fcf264944f3a1764ceb4084853d72_sx_139854_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_4e335e03900a7ee3468caf63527fbebb_sx_308619_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_4e335e03900a7ee3468caf63527fbebb_sx_308619_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_ec33f2fe2d97f03b726582dd68d67254_sx_73024_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_ec33f2fe2d97f03b726582dd68d67254_sx_73024_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/YhSpOOLV_m_6f209a3ad006adff9c76210e53b6c19b_sx_82311_www750-751.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_87ce1d94a661e516e79e12f5463146d5_sx_145510_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_87ce1d94a661e516e79e12f5463146d5_sx_145510_www800-800.png
+<PIL.Image.Image image mode=RGB size=750x751 at 0x7FDA90B4EC10>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_65c4bcff9674299cb69f40179e39cf10_sx_333216_www790-920
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_65c4bcff9674299cb69f40179e39cf10_sx_333216_www790-920.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_cb5e73cef2da2f1732a4b75efafb656b_sx_361729_www790-445.png
+image not exist, download it/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/YhSpOOLV_m_ef4238551bf20cf28cae9d822eb1512a_sx_76861_www750-825.png /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_cb5e73cef2da2f1732a4b75efafb656b_sx_361729_www790-445.png
+<PIL.Image.Image image mode=RGB size=750x825 at 0x7FDA90B09070>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_4e335e03900a7ee3468caf63527fbebb_sx_308619_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_4e335e03900a7ee3468caf63527fbebb_sx_308619_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_5d6b5272fc90ebe77ef985cc4a6ceb3b_sx_319192_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_5d6b5272fc90ebe77ef985cc4a6ceb3b_sx_319192_www800-800.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_87ce1d94a661e516e79e12f5463146d5_sx_145510_www800-800
+remark_3605727927989350565_7211727708580331828
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_87ce1d94a661e516e79e12f5463146d5_sx_145510_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_5fdf05eff262ca7017d9b6aca537fbbc_sx_146488_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_5fdf05eff262ca7017d9b6aca537fbbc_sx_146488_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ldiubKza_m_cb5e73cef2da2f1732a4b75efafb656b_sx_361729_www790-445
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ldiubKza_m_cb5e73cef2da2f1732a4b75efafb656b_sx_361729_www790-445.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3609407393286515243_7218814780885287200
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_ac043c33cc904d9ae43dc264c3eea43b_sx_429430_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_ac043c33cc904d9ae43dc264c3eea43b_sx_429430_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_5d6b5272fc90ebe77ef985cc4a6ceb3b_sx_319192_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_5d6b5272fc90ebe77ef985cc4a6ceb3b_sx_319192_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_08aa6d662aa4e90001957d6e48f73c13_sx_142022_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_08aa6d662aa4e90001957d6e48f73c13_sx_142022_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_062530be416b4ce41012e9c89a5391e5_sx_341595_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_062530be416b4ce41012e9c89a5391e5_sx_341595_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_08aa6d662aa4e90001957d6e48f73c13_sx_142022_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_08aa6d662aa4e90001957d6e48f73c13_sx_142022_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_5fdf05eff262ca7017d9b6aca537fbbc_sx_146488_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_5fdf05eff262ca7017d9b6aca537fbbc_sx_146488_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_12655993bc0d4286122e93b2ba49c6ed_sx_211501_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_12655993bc0d4286122e93b2ba49c6ed_sx_211501_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_062530be416b4ce41012e9c89a5391e5_sx_341595_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_062530be416b4ce41012e9c89a5391e5_sx_341595_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_fe3661dce9dd9f6bc6774a5db7ba7c1a_sx_146448_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_f69486d03db73201195a91dd3cd83081_sx_356237_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_f69486d03db73201195a91dd3cd83081_sx_356237_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_363df553c447dd1fc97fdf9887efdc7a_sx_200375_www750-1138.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_363df553c447dd1fc97fdf9887efdc7a_sx_200375_www750-1138.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_12655993bc0d4286122e93b2ba49c6ed_sx_211501_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_12655993bc0d4286122e93b2ba49c6ed_sx_211501_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_acc6da755dd5646511a36513ebbca410_sx_160810_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_acc6da755dd5646511a36513ebbca410_sx_160810_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_363df553c447dd1fc97fdf9887efdc7a_sx_200375_www750-1138
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_363df553c447dd1fc97fdf9887efdc7a_sx_200375_www750-1138.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_f69486d03db73201195a91dd3cd83081_sx_356237_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_f69486d03db73201195a91dd3cd83081_sx_356237_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_a9bc4b60a35395e31a5ba96f4e07f814_sx_62430_www750-578.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_a9bc4b60a35395e31a5ba96f4e07f814_sx_62430_www750-578.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_fc6b60dfb296d898a294afd510732269_sx_366369_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_fc6b60dfb296d898a294afd510732269_sx_366369_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_acc6da755dd5646511a36513ebbca410_sx_160810_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_acc6da755dd5646511a36513ebbca410_sx_160810_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_0cff4c8689d00201c26c678d9f72d6b9_sx_165701_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_0cff4c8689d00201c26c678d9f72d6b9_sx_165701_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_a9bc4b60a35395e31a5ba96f4e07f814_sx_62430_www750-578
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_a9bc4b60a35395e31a5ba96f4e07f814_sx_62430_www750-578.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_407041ca8678b5b47558f81ec17b0785_sx_72238_www750-675.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_407041ca8678b5b47558f81ec17b0785_sx_72238_www750-675.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_fc6b60dfb296d898a294afd510732269_sx_366369_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_fc6b60dfb296d898a294afd510732269_sx_366369_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_059a99f9c5a82223aa3b15c87e7b55fa_sx_218076_www790-636.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_059a99f9c5a82223aa3b15c87e7b55fa_sx_218076_www790-636.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_0cff4c8689d00201c26c678d9f72d6b9_sx_165701_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_0cff4c8689d00201c26c678d9f72d6b9_sx_165701_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_f681b269d4e91d8c76c08f710f14eaf4_sx_157278_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_f681b269d4e91d8c76c08f710f14eaf4_sx_157278_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ewnoDENI_m_407041ca8678b5b47558f81ec17b0785_sx_72238_www750-675
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/ewnoDENI_m_407041ca8678b5b47558f81ec17b0785_sx_72238_www750-675.png'
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3619214073096444321_7238428140257689860
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_059a99f9c5a82223aa3b15c87e7b55fa_sx_218076_www790-636
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_059a99f9c5a82223aa3b15c87e7b55fa_sx_218076_www790-636.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_7d1f133221f1e9f681032c8fb1d34039_sx_127187_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_7d1f133221f1e9f681032c8fb1d34039_sx_127187_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_dfa9b3fbf94861f176860829c34a2d99_sx_112313_www790-1059.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_dfa9b3fbf94861f176860829c34a2d99_sx_112313_www790-1059.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_f681b269d4e91d8c76c08f710f14eaf4_sx_157278_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_f681b269d4e91d8c76c08f710f14eaf4_sx_157278_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_7d1f133221f1e9f681032c8fb1d34039_sx_127187_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_7d1f133221f1e9f681032c8fb1d34039_sx_127187_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_6305b9af96274a6f410fcb8eb6cee385_sx_128788_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_6305b9af96274a6f410fcb8eb6cee385_sx_128788_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_3b6a1edccb7e96e4d7120361a012734b_sx_107871_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_3b6a1edccb7e96e4d7120361a012734b_sx_107871_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_dfa9b3fbf94861f176860829c34a2d99_sx_112313_www790-1059
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_dfa9b3fbf94861f176860829c34a2d99_sx_112313_www790-1059.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_92ec8fcb08256b3cab837a7d002747df_sx_256981_www790-576.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_92ec8fcb08256b3cab837a7d002747df_sx_256981_www790-576.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_ac043c33cc904d9ae43dc264c3eea43b_sx_429430_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_ac043c33cc904d9ae43dc264c3eea43b_sx_429430_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_47f86b25c994ab4782d2bcbbce2f577e_sx_289900_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_47f86b25c994ab4782d2bcbbce2f577e_sx_289900_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_6305b9af96274a6f410fcb8eb6cee385_sx_128788_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_6305b9af96274a6f410fcb8eb6cee385_sx_128788_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_105713ad0892deb70c66073a91304d3e_sx_134578_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_3b6a1edccb7e96e4d7120361a012734b_sx_107871_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_3b6a1edccb7e96e4d7120361a012734b_sx_107871_www800-800.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_105713ad0892deb70c66073a91304d3e_sx_134578_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_e80ee639db5fbfcc6eb54cfb76e68f93_sx_95401_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_e80ee639db5fbfcc6eb54cfb76e68f93_sx_95401_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_47f86b25c994ab4782d2bcbbce2f577e_sx_289900_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_47f86b25c994ab4782d2bcbbce2f577e_sx_289900_www800-800.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/TAeLxYgl_m_92ec8fcb08256b3cab837a7d002747df_sx_256981_www790-576
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/TAeLxYgl_m_92ec8fcb08256b3cab837a7d002747df_sx_256981_www790-576.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_c2930f492138f8962067738ff6c56a07_sx_375713_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_105713ad0892deb70c66073a91304d3e_sx_134578_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_105713ad0892deb70c66073a91304d3e_sx_134578_www800-800.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_c2930f492138f8962067738ff6c56a07_sx_375713_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_062c19e10ad0234334903e51517ccf94_sx_160799_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_062c19e10ad0234334903e51517ccf94_sx_160799_www800-800.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3621970544469145312_7243941066099998976
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_cbe9a55ca2c59bb6ee16730b498020d9_sx_160332_www1000-1000.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_cbe9a55ca2c59bb6ee16730b498020d9_sx_160332_www1000-1000.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_e80ee639db5fbfcc6eb54cfb76e68f93_sx_95401_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_e80ee639db5fbfcc6eb54cfb76e68f93_sx_95401_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_a17931df62ddd9ef229d2f3aa51da0e1_sx_62610_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_c2930f492138f8962067738ff6c56a07_sx_375713_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_c2930f492138f8962067738ff6c56a07_sx_375713_www800-800.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_a17931df62ddd9ef229d2f3aa51da0e1_sx_62610_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_db5c46bad821c5c09634e4936b2130a4_sx_336254_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_db5c46bad821c5c09634e4936b2130a4_sx_336254_www800-800.png
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 144, in __getitem__
+    sources = preprocess_multimodal(
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/train/train.py", line 546, in <module>
+    train(args)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/train/train.py", line 516, in train
+    trainer.train()
+  File "/home/tiger/.local/lib/python3.9/site-packages/transformers/trainer.py", line 1555, in train
+    return inner_training_loop(
+  File "/home/tiger/.local/lib/python3.9/site-packages/transformers/trainer.py", line 1838, in _inner_training_loop
+    for step, inputs in enumerate(epoch_iterator):
+  File "/home/tiger/.local/lib/python3.9/site-packages/accelerate/data_loader.py", line 452, in __iter__
+    current_batch = next(dataloader_iter)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 634, in __next__
+    data = self._next_data()
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 1346, in _next_data
+    return self._process_data(data)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 1372, in _process_data
+    data.reraise()
+  File "/usr/local/lib/python3.9/dist-packages/torch/_utils.py", line 644, in reraise
+    raise exception
+RuntimeError: Caught RuntimeError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/_utils/worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 240, in __call__
+    input_ids = torch.nn.utils.rnn.pad_sequence(
+  File "/usr/local/lib/python3.9/dist-packages/torch/nn/utils/rnn.py", line 399, in pad_sequence
+    return torch._C._nn.pad_sequence(sequences, batch_first, padding_value)
+RuntimeError: received an empty list of sequences
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/train/train.py", line 546, in <module>
+    train(args)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/train/train.py", line 516, in train
+    trainer.train()
+  File "/home/tiger/.local/lib/python3.9/site-packages/transformers/trainer.py", line 1555, in train
+    return inner_training_loop(
+  File "/home/tiger/.local/lib/python3.9/site-packages/transformers/trainer.py", line 1838, in _inner_training_loop
+    for step, inputs in enumerate(epoch_iterator):
+  File "/home/tiger/.local/lib/python3.9/site-packages/accelerate/data_loader.py", line 452, in __iter__
+    current_batch = next(dataloader_iter)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 634, in __next__
+    data = self._next_data()
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 1346, in _next_data
+    return self._process_data(data)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 1372, in _process_data
+    data.reraise()
+  File "/usr/local/lib/python3.9/dist-packages/torch/_utils.py", line 644, in reraise
+    raise exception
+RuntimeError: Caught RuntimeError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/_utils/worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 240, in __call__
+    input_ids = torch.nn.utils.rnn.pad_sequence(
+  File "/usr/local/lib/python3.9/dist-packages/torch/nn/utils/rnn.py", line 399, in pad_sequence
+    return torch._C._nn.pad_sequence(sequences, batch_first, padding_value)
+RuntimeError: received an empty list of sequences
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_062c19e10ad0234334903e51517ccf94_sx_160799_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_062c19e10ad0234334903e51517ccf94_sx_160799_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_f55838fea5ca1bf3c91ee5fa9b16df3d_sx_144242_www790-951.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_f55838fea5ca1bf3c91ee5fa9b16df3d_sx_144242_www790-951.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_cbe9a55ca2c59bb6ee16730b498020d9_sx_160332_www1000-1000
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_cbe9a55ca2c59bb6ee16730b498020d9_sx_160332_www1000-1000.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_2ac7b9c05de61a55ffdd3c065eb9f485_sx_190620_www1000-1000.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_2ac7b9c05de61a55ffdd3c065eb9f485_sx_190620_www1000-1000.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_a17931df62ddd9ef229d2f3aa51da0e1_sx_62610_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_a17931df62ddd9ef229d2f3aa51da0e1_sx_62610_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_3210f8a1498c6764c99e1930daf73293_sx_107805_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_3210f8a1498c6764c99e1930daf73293_sx_107805_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_f55838fea5ca1bf3c91ee5fa9b16df3d_sx_144242_www790-951
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_f55838fea5ca1bf3c91ee5fa9b16df3d_sx_144242_www790-951.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_56469d6aa93f90546c2e217a88d23f9d_sx_28311_www790-390.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_56469d6aa93f90546c2e217a88d23f9d_sx_28311_www790-390.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_db5c46bad821c5c09634e4936b2130a4_sx_336254_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_db5c46bad821c5c09634e4936b2130a4_sx_336254_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_b092e3d9eeaedcc6cf6552072474379f_sx_30217_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_b092e3d9eeaedcc6cf6552072474379f_sx_30217_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_2ac7b9c05de61a55ffdd3c065eb9f485_sx_190620_www1000-1000
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_2ac7b9c05de61a55ffdd3c065eb9f485_sx_190620_www1000-1000.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_d5c8aab547de63c0477e34d6c56769c4_sx_178845_www1000-1000.pngdown img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_56469d6aa93f90546c2e217a88d23f9d_sx_28311_www790-390
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_56469d6aa93f90546c2e217a88d23f9d_sx_28311_www790-390.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_d5c8aab547de63c0477e34d6c56769c4_sx_178845_www1000-1000.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_3210f8a1498c6764c99e1930daf73293_sx_107805_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_3210f8a1498c6764c99e1930daf73293_sx_107805_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_470f0448aa3689afd876710684f06e4e_sx_85658_www790-557.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_470f0448aa3689afd876710684f06e4e_sx_85658_www790-557.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_7d1f133221f1e9f681032c8fb1d34039_sx_127187_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_7d1f133221f1e9f681032c8fb1d34039_sx_127187_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_b092e3d9eeaedcc6cf6552072474379f_sx_30217_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_b092e3d9eeaedcc6cf6552072474379f_sx_30217_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_91cd19f49d84a0e297d135e579a3b97a_sx_527375_www790-1110.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_91cd19f49d84a0e297d135e579a3b97a_sx_527375_www790-1110.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_d5c8aab547de63c0477e34d6c56769c4_sx_178845_www1000-1000
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_d5c8aab547de63c0477e34d6c56769c4_sx_178845_www1000-1000.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_6fca4b751c0733115b1593957a0c2584_sx_178426_www1000-1000.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_6fca4b751c0733115b1593957a0c2584_sx_178426_www1000-1000.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_470f0448aa3689afd876710684f06e4e_sx_85658_www790-557
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_470f0448aa3689afd876710684f06e4e_sx_85658_www790-557.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_cb53adda05d02adb63bab6898a706a78_sx_79575_www790-521.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_cb53adda05d02adb63bab6898a706a78_sx_79575_www790-521.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_7d1f133221f1e9f681032c8fb1d34039_sx_127187_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_7d1f133221f1e9f681032c8fb1d34039_sx_127187_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_ae84e1bb68b04914cbde52ffb9ea4737_sx_73494_www705-1417.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_ae84e1bb68b04914cbde52ffb9ea4737_sx_73494_www705-1417.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_91cd19f49d84a0e297d135e579a3b97a_sx_527375_www790-1110
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_91cd19f49d84a0e297d135e579a3b97a_sx_527375_www790-1110.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_f32c032e124d13396ca2c8a56f85a883_sx_221063_www790-763.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_f32c032e124d13396ca2c8a56f85a883_sx_221063_www790-763.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_6fca4b751c0733115b1593957a0c2584_sx_178426_www1000-1000
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_6fca4b751c0733115b1593957a0c2584_sx_178426_www1000-1000.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hGsTEKv_m_cb53adda05d02adb63bab6898a706a78_sx_79575_www790-521
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hGsTEKv_m_cb53adda05d02adb63bab6898a706a78_sx_79575_www790-521.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_3e33a2915f65faf2fb9b6cda1c257f11_sx_160316_www1000-1000.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_3e33a2915f65faf2fb9b6cda1c257f11_sx_160316_www1000-1000.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_ae84e1bb68b04914cbde52ffb9ea4737_sx_73494_www705-1417
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_ae84e1bb68b04914cbde52ffb9ea4737_sx_73494_www705-1417.png'
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3614580808121244313_7229161612786008359
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_1e09f1f9c462aa3770bb6c73c09c74b9_sx_201475_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_24fe492a4a582b5ce825b1d6e53119a6_sx_102499_www705-1418.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_24fe492a4a582b5ce825b1d6e53119a6_sx_102499_www705-1418.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B6E910>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_f32c032e124d13396ca2c8a56f85a883_sx_221063_www790-763
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_f32c032e124d13396ca2c8a56f85a883_sx_221063_www790-763.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_24fe492a4a582b5ce825b1d6e53119a6_sx_102499_www705-1418
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_24fe492a4a582b5ce825b1d6e53119a6_sx_102499_www705-1418.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_3a0988cd5a0b6ca19912e60a002cb86e_sx_551624_www790-1313.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_3e33a2915f65faf2fb9b6cda1c257f11_sx_160316_www1000-1000
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_3e33a2915f65faf2fb9b6cda1c257f11_sx_160316_www1000-1000.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_3a0988cd5a0b6ca19912e60a002cb86e_sx_551624_www790-1313.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_5df34c6495912aaedc282cfefbea58dc_sx_54610_www705-1417.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_5df34c6495912aaedc282cfefbea58dc_sx_54610_www705-1417.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_0434f3849abe4ef7685ac4fa1bc5f820_sx_68635_www480-480.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_0434f3849abe4ef7685ac4fa1bc5f820_sx_68635_www480-480.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_c91ef614897b896c9e8be1464f58b061_sx_329965_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_5df34c6495912aaedc282cfefbea58dc_sx_54610_www705-1417
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_5df34c6495912aaedc282cfefbea58dc_sx_54610_www705-1417.png'
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B6E4F0>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_6ceb7fd98de580695a3688c813be740a_sx_75002_www705-1417.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_6ceb7fd98de580695a3688c813be740a_sx_75002_www705-1417.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_0265963ffb351d8237bd66a5a74eaa92_sx_329133_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_0434f3849abe4ef7685ac4fa1bc5f820_sx_68635_www480-480
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_0434f3849abe4ef7685ac4fa1bc5f820_sx_68635_www480-480.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_3a0988cd5a0b6ca19912e60a002cb86e_sx_551624_www790-1313
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_3a0988cd5a0b6ca19912e60a002cb86e_sx_551624_www790-1313.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_ad09e384553cc4c763950cfe6881fe1c_sx_111973_www482-482.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_5be217bff998cbb89f755ce8c785b002_sx_355008_www790-1122.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_ad09e384553cc4c763950cfe6881fe1c_sx_111973_www482-482.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_6ceb7fd98de580695a3688c813be740a_sx_75002_www705-1417
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_6ceb7fd98de580695a3688c813be740a_sx_75002_www705-1417.png'
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_5be217bff998cbb89f755ce8c785b002_sx_355008_www790-1122.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_9a67eac184e63bd63873a057418ff5cd_sx_106908_www705-1418.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_9a67eac184e63bd63873a057418ff5cd_sx_106908_www705-1418.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B090D0>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_ad09e384553cc4c763950cfe6881fe1c_sx_111973_www482-482
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_ad09e384553cc4c763950cfe6881fe1c_sx_111973_www482-482.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_dd8eecaf55743001fce0fb0993fcbe02_sx_317181_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_0452ccf1263410c9756dca3a88cfca6c_sx_135449_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_0452ccf1263410c9756dca3a88cfca6c_sx_135449_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_9a67eac184e63bd63873a057418ff5cd_sx_106908_www705-1418
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_9a67eac184e63bd63873a057418ff5cd_sx_106908_www705-1418.png'
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B09C40>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_f17af72e80e148317ca519664bbf9941_sx_90306_www705-1417.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_f17af72e80e148317ca519664bbf9941_sx_90306_www705-1417.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_5be217bff998cbb89f755ce8c785b002_sx_355008_www790-1122
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_5be217bff998cbb89f755ce8c785b002_sx_355008_www790-1122.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_1655a9bca50ac8aa27e8b94bd14b7b04_sx_545120_www790-1101.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_0452ccf1263410c9756dca3a88cfca6c_sx_135449_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_0452ccf1263410c9756dca3a88cfca6c_sx_135449_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_5bef6cc40c5b5c99a14ca395115bb084_sx_195830_www800-800.pngimage not exist, download it
+ /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_1655a9bca50ac8aa27e8b94bd14b7b04_sx_545120_www790-1101.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_dfe884663204a11143f8e1e66c3e2e85_sx_109507_www1125-757.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_dfe884663204a11143f8e1e66c3e2e85_sx_109507_www1125-757.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B09220>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/EDcECYBe_m_f17af72e80e148317ca519664bbf9941_sx_90306_www705-1417
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/EDcECYBe_m_f17af72e80e148317ca519664bbf9941_sx_90306_www705-1417.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_99db8cd2fd634046aab9eee86165f495_sx_209576_www800-800.png
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3634253584427822864_7268507162099843368
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aUxrzbIP_m_1c38e11442856ebe8a75dc41cc086489_sx_507017_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aUxrzbIP_m_1c38e11442856ebe8a75dc41cc086489_sx_507017_www800-800.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B09460>
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_ebbfe914abbc28d2712951426940fa55_sx_206016_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_dfe884663204a11143f8e1e66c3e2e85_sx_109507_www1125-757
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_dfe884663204a11143f8e1e66c3e2e85_sx_109507_www1125-757.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_1655a9bca50ac8aa27e8b94bd14b7b04_sx_545120_www790-1101
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_1655a9bca50ac8aa27e8b94bd14b7b04_sx_545120_www790-1101.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_63d376309d1899d3cf212ec54f7cddfd_sx_28711_www660-417.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_63d376309d1899d3cf212ec54f7cddfd_sx_28711_www660-417.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_ffe6836e4a4f56705c4a3a4f768a3594_sx_465004_www790-1294.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_ffe6836e4a4f56705c4a3a4f768a3594_sx_465004_www790-1294.png
+<PIL.Image.Image image mode=RGB size=800x800 at 0x7FDA90B09C40>
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/aUxrzbIP_m_1c38e11442856ebe8a75dc41cc086489_sx_507017_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aUxrzbIP_m_1c38e11442856ebe8a75dc41cc086489_sx_507017_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aUxrzbIP_m_260bc710877cd5148ef2d3788b2681da_sx_499000_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aUxrzbIP_m_260bc710877cd5148ef2d3788b2681da_sx_499000_www800-800.png
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_578e23c512516cdf3b70e3b5db80e7d1_sx_199560_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_578e23c512516cdf3b70e3b5db80e7d1_sx_199560_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_ffe6836e4a4f56705c4a3a4f768a3594_sx_465004_www790-1294
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_ffe6836e4a4f56705c4a3a4f768a3594_sx_465004_www790-1294.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_de8adcba875564147acb2cb874de49bc_sx_67680_www750-669.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_de8adcba875564147acb2cb874de49bc_sx_67680_www750-669.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_63d376309d1899d3cf212ec54f7cddfd_sx_28711_www660-417
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_63d376309d1899d3cf212ec54f7cddfd_sx_28711_www660-417.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_24d0054c28da2a8658a982c80f2aac26_sx_20004_www622-247.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_24d0054c28da2a8658a982c80f2aac26_sx_20004_www622-247.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/yfSEcwqt_m_578e23c512516cdf3b70e3b5db80e7d1_sx_199560_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_578e23c512516cdf3b70e3b5db80e7d1_sx_199560_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_6abef84ecee77eb294dd9d7c579d2fec_sx_157874_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/yfSEcwqt_m_6abef84ecee77eb294dd9d7c579d2fec_sx_157874_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/aUxrzbIP_m_260bc710877cd5148ef2d3788b2681da_sx_499000_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aUxrzbIP_m_260bc710877cd5148ef2d3788b2681da_sx_499000_www800-800.png'
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aUxrzbIP_m_86621bee2e67ca116d5c4ba8c8e884da_sx_500277_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/aUxrzbIP_m_86621bee2e67ca116d5c4ba8c8e884da_sx_500277_www800-800.png
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/nrcooNX_m_de8adcba875564147acb2cb874de49bc_sx_67680_www750-669
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_de8adcba875564147acb2cb874de49bc_sx_67680_www750-669.png'
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/hjWIPVed_m_24d0054c28da2a8658a982c80f2aac26_sx_20004_www622-247
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 293, in read_and_download_img
+    img_data.save(img_path, format="PNG")
+  File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2429, in save
+    fp = builtins.open(filename, "w+b")
+PermissionError: [Errno 13] Permission denied: '/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_24d0054c28da2a8658a982c80f2aac26_sx_20004_www622-247.png'
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3616849482794319320_7239233967147204902
+/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_8b115d031c3332ab08dd25624ca6e5c1_sx_30620_www750-358.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/keiTUyza_m_58bf749c64721eb64f74a10cc1d06469_sx_214220_www800-800.png/mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/hjWIPVed_m_8b115d031c3332ab08dd25624ca6e5c1_sx_30620_www750-358.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/keiTUyza_m_58bf749c64721eb64f74a10cc1d06469_sx_214220_www800-800.png
+image not exist, download it /mnt/bn/yangmin-priv-fashionmm/Data/wuji/big_model_train_image_data/nrcooNX_m_db5c46bad821c5c09634e4936b2130a4_sx_336254_www800-800.png

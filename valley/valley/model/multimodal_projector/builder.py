@@ -70,16 +70,18 @@ class PoolAdapter(nn.Module):
 
         return x
 
-
+#构建多模态投影器，用于将来自不同模态的特征（例如视觉图像、语音、文本等）转换或投影到同一特征空间中
 def build_vision_projector(config, delay_load=False, **kwargs):
-    projector_type = getattr(config, 'mm_projector_type', 'linear')
+    projector_type = getattr(config, 'mm_projector_type', 'linear') #确定投影器类型，如果不存在则默认为 `'linear'`。
 
     if projector_type == 'linear':
-        return nn.Linear(config.mm_hidden_size, config.hidden_size)
+        return nn.Linear(config.mm_hidden_size, config.hidden_size) #如果投影器类型为 `linear`，则创建一个线性层（`nn.Linear`）
         
+    #如果投影器类型为 `pool_adapter`，则创建 `PoolAdapter` 的一个实例
     elif projector_type == 'pool_adapter':
         return PoolAdapter(config.mm_hidden_size, config.hidden_size, config.pool_out_size)
 
+    #如果类型匹配正则表达式 `^mlp(\d+)x_gelu$`（表示投影器类型是一个搭配GELU激活函数的多层感知器），则解析深度 `X`，并且构建一个有 `X` 层的 MLP。
     mlp_gelu_match = re.match(r'^mlp(\d+)x_gelu$', projector_type)
     if mlp_gelu_match:
         mlp_depth = int(mlp_gelu_match.group(1))
@@ -89,7 +91,7 @@ def build_vision_projector(config, delay_load=False, **kwargs):
             modules.append(nn.Linear(config.hidden_size, config.hidden_size))
         return nn.Sequential(*modules)
 
-    if projector_type == 'identity':
+    if projector_type == 'identity': #如果投影器类型为 `identity`，则返回 `IdentityMap` 的一个实例
         return IdentityMap()
 
     raise ValueError(f'Unknown projector type: {projector_type}')

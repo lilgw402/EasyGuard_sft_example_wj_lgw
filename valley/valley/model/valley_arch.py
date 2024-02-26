@@ -288,22 +288,23 @@ class ValleyProductMetaModel:
         if type(vision_tower) is list:
             vision_tower = vision_tower[0]
         return vision_tower
-
+    #初始化与视觉相关的模块
     def initialize_vision_modules(self, model_args, fsdp=None):
         vision_tower = model_args.vision_tower
-        mm_vision_select_layer = model_args.mm_vision_select_layer
-        mm_vision_select_feature = model_args.mm_vision_select_feature
-        pretrain_mm_mlp_adapter = model_args.pretrain_mm_mlp_adapter
+        mm_vision_select_layer = model_args.mm_vision_select_layer #多模态视觉选择层
+        mm_vision_select_feature = model_args.mm_vision_select_feature #功能选择
+        pretrain_mm_mlp_adapter = model_args.pretrain_mm_mlp_adapter #多模态MLP适配器预训练权重路径
 
         self.config.mm_vision_tower = vision_tower
 
         if self.get_vision_tower() is None:
-            vision_tower = build_vision_tower(model_args)
+            vision_tower = build_vision_tower(model_args) #则调用 `build_vision_tower` 函数使用 `model_args` 来构建一个新的视觉塔。
 
             if fsdp is not None and len(fsdp) > 0:
                 self.vision_tower = [vision_tower]
             else:
                 self.vision_tower = vision_tower
+        #如果视觉塔已存在，根据 `fsdp` 的配置来加载模型或获取已经存在的视觉塔对象，并调用其 `load_model` 方法
         else:
             if fsdp is not None and len(fsdp) > 0:
                 vision_tower = self.vision_tower[0]
@@ -311,17 +312,21 @@ class ValleyProductMetaModel:
                 vision_tower = self.vision_tower
             vision_tower.load_model()
 
-        self.config.use_mm_proj = True
-        self.config.mm_projector_type = getattr(model_args, 'mm_projector_type', 'pool_adapter')
-        self.config.mm_hidden_size = vision_tower.hidden_size
-        self.config.mm_vision_select_layer = mm_vision_select_layer
-        self.config.mm_vision_select_feature = mm_vision_select_feature
+        #配置多模态投影器
+        self.config.use_mm_proj = True #设置是否使用多模态投影器 (`use_mm_proj`) 为 `True
+        self.config.mm_projector_type = getattr(model_args, 'mm_projector_type', 'pool_adapter') #多模态投影器的类型
+        self.config.mm_hidden_size = vision_tower.hidden_size #提取视觉塔的隐藏层大小 
+        self.config.mm_vision_select_layer = mm_vision_select_layer #视觉特征选择的层 
+        self.config.mm_vision_select_feature = mm_vision_select_feature #视觉特征选择的特征
         self.config.pool_out_size = getattr(model_args, 'pool_out_size', 8)
 
+        #如果没有现有的多模态投影器 (`self.mm_projector`)，则调用 `build_vision_projector` 函数使用当前配置 (`self.config`) 来构建一个新的投影器。
+        #多模态投影器用于将来自不同模态的特征（例如视觉图像、语音、文本等）转换或投影到同一特征空间中
         if getattr(self, 'mm_projector', None) is None:
             self.mm_projector = build_vision_projector(self.config)
 
 
+        #如果有预训练权重，则加载它们
         if pretrain_mm_mlp_adapter is not None:
             mm_projector_weights = torch.load(pretrain_mm_mlp_adapter, map_location='cpu')
             def get_w(weights, keyword):

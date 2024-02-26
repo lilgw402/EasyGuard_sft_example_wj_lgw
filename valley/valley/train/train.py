@@ -432,7 +432,6 @@ def train(args):
                 tokenizer=tokenizer,
                 model=model,
             )
-            breakpoint()
     elif model_args.version == "v0.5":
         tokenizer.pad_token = tokenizer.unk_token
     else:
@@ -447,7 +446,7 @@ def train(args):
     if data_args.prompt_version is not None:
         conversation_lib.default_conversation = conversation_lib.conv_templates[data_args.prompt_version]
     #如果存在 `vision_tower` 并且表示需要进行多模态训练，将会用各种视觉处理设置配置模型，并初始化视觉相关组件。
-    if model_args.vision_tower is not None:
+    if model_args.vision_tower is not None: #/mnt/bn/yangmin-priv-fashionmm/pretrained/chinese-clip-vit-large-patch14
         model.get_model().initialize_vision_modules( #增加视觉模型部分
             model_args=model_args,
             fsdp=training_args.fsdp
@@ -482,7 +481,6 @@ def train(args):
 
         if training_args.bits in [4, 8]:
             model.get_model().mm_projector.to(dtype=compute_dtype, device=training_args.device)
-        breakpoint()
         model.config.mm_use_im_start_end = data_args.mm_use_im_start_end = model_args.mm_use_im_start_end
         training_args.use_im_start_end = model_args.mm_use_im_start_end
         model.config.mm_use_im_patch_token = model_args.mm_use_im_patch_token

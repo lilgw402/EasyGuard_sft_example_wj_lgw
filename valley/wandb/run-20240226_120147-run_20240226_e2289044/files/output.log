@@ -1,0 +1,2249 @@
+  0%|                                                                                    | 0/994590 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py", line 200, in preprocess_multimodal
+    is_multimodal = data_args.is_multimodal
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/train/train.py", line 546, in <module>
+    train(args)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/train/train.py", line 516, in train
+    trainer.train()
+  File "/home/tiger/.local/lib/python3.9/site-packages/transformers/trainer.py", line 1555, in train
+    return inner_training_loop(
+  File "/home/tiger/.local/lib/python3.9/site-packages/transformers/trainer.py", line 1838, in _inner_training_loop
+    for step, inputs in enumerate(epoch_iterator):
+  File "/home/tiger/.local/lib/python3.9/site-packages/accelerate/data_loader.py", line 452, in __iter__
+    current_batch = next(dataloader_iter)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 634, in __next__
+    data = self._next_data()
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 1346, in _next_data
+    return self._process_data(data)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 1372, in _process_data
+    data.reraise()
+  File "/usr/local/lib/python3.9/dist-packages/torch/_utils.py", line 644, in reraise
+    raise exception
+RuntimeError: Caught RuntimeError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/_utils/worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 240, in __call__
+    input_ids = torch.nn.utils.rnn.pad_sequence(
+  File "/usr/local/lib/python3.9/dist-packages/torch/nn/utils/rnn.py", line 399, in pad_sequence
+    return torch._C._nn.pad_sequence(sequences, batch_first, padding_value)
+RuntimeError: received an empty list of sequences
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/train/train.py", line 546, in <module>
+    train(args)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/train/train.py", line 516, in train
+    trainer.train()
+  File "/home/tiger/.local/lib/python3.9/site-packages/transformers/trainer.py", line 1555, in train
+    return inner_training_loop(
+  File "/home/tiger/.local/lib/python3.9/site-packages/transformers/trainer.py", line 1838, in _inner_training_loop
+    for step, inputs in enumerate(epoch_iterator):
+  File "/home/tiger/.local/lib/python3.9/site-packages/accelerate/data_loader.py", line 452, in __iter__
+    current_batch = next(dataloader_iter)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 634, in __next__
+    data = self._next_data()
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 1346, in _next_data
+    return self._process_data(data)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/dataloader.py", line 1372, in _process_data
+    data.reraise()
+  File "/usr/local/lib/python3.9/dist-packages/torch/_utils.py", line 644, in reraise
+    raise exception
+RuntimeError: Caught RuntimeError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/_utils/worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)
+  File "/usr/local/lib/python3.9/dist-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 240, in __call__
+    input_ids = torch.nn.utils.rnn.pad_sequence(
+  File "/usr/local/lib/python3.9/dist-packages/torch/nn/utils/rnn.py", line 399, in pad_sequence
+    return torch._C._nn.pad_sequence(sequences, batch_first, padding_value)
+RuntimeError: received an empty list of sequences
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) > /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1](Pdb)
+(Pdb) > /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_6037e258b0461fcf2ccc4825a26e0ab9_sx_195763_www800-800down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_86f7ed37cff8b356ef65d5a9d1868191_sx_98949_www800-800
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_b5f3037c0c7f6ffe133634e12eb126ce_sx_200714_www1040-1040
+(Pdb) Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_18b89fcdcb2fe027c92c69474c5dee10_sx_416807_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_a4f2c5b93f24dc874b12e387c1d26009_sx_120774_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) (Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_b0be86d00dd20b4e67d212048a3105e1_sx_287373_www1024-1024down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_6212b7f468ad5277146716bff3c8b438_sx_163567_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_59db1f436a2773ebd8ace30e4106a1ca_sx_433503_www1200-1200
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_0a7b062dba1a870cbebf2e00524efc2c_sx_173114_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_fbf411edd9be21320f131d5df705c108_sx_179929_www1271-1271
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_a4b825c90f4bbf2dcb3fc904da062683_sx_66877_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1](Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_663711f48af3a48543fb442532104e8b_sx_175933_www800-800(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_a56585b58d18490d6534d040bdfe5335_sx_472786_www1200-1200
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_6a8eb46283dafdf00d12c8460e33ff51_sx_202699_www1279-1279
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_04bfffa25bc85fca66375158aa91c16e_sx_77275_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_658a899bf8c2866ed7744eb8ee82bb6b_sx_98962_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_b97d70a2da4a1b57f80ba4b888280eee_sx_211799_www1272-1272
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_6c3db37dda7a4f01d0338b2a2eedec99_sx_91026_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_f50d871d8cc3eb89b781db63e504ec1b_sx_492493_www1200-1200
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_6037e258b0461fcf2ccc4825a26e0ab9_sx_195763_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_c4982790a72135e5ef3fc5927f2f5ac4_sx_224119_www1284-1284
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_63365ce1586de64fc5f06f9148770bb3_sx_167037_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_6037e258b0461fcf2ccc4825a26e0ab9_sx_195763_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_3431452baa36be4304607b1c5bd1423e_sx_501049_www1200-1200(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_63e74aca4074b59a653f339cd2840dc0_sx_331530_www1170-1630
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_63365ce1586de64fc5f06f9148770bb3_sx_167037_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1](Pdb)
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_6037e258b0461fcf2ccc4825a26e0ab9_sx_195763_www800-800down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_a4bb30b08078549614e6532b1f5f9aa7_sx_414598_www1151-1790
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_63365ce1586de64fc5f06f9148770bb3_sx_167037_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_a56585b58d18490d6534d040bdfe5335_sx_472786_www1200-1200
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) (Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_6037e258b0461fcf2ccc4825a26e0ab9_sx_195763_www800-800down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_8189191f5b680df316a7a2d6262a6230_sx_300402_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_92268246712f2ecea09d4973624d518d_sx_54886_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_7be689c1d636b7b55807da40fef1ac70_sx_807860_www790-1607
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_6037e258b0461fcf2ccc4825a26e0ab9_sx_195763_www800-800> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb) Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_8b5969556355fb2dfd0dbfc79c772da9_sx_331770_www1284-1293
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_92268246712f2ecea09d4973624d518d_sx_54886_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_ec2c6f084f96f1575ba930422c245be9_sx_126447_www750-563
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_9fe1edc41b991333c75bb3635ef74ddf_sx_316868_www1284-1270
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_13865ebd3fdd6ee01d84713671b1f8d2_sx_272334_www790-1151
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_df48af8d6ea3a0073ace0ab3c6d12f1c_sx_105052_www750-515
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/ZdQYYaXz_m_dcce04b6ddfd91ff3655231b91907216_sx_120052_www750-519
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/FtooykQo_m_f9f132b258593221afa122b0b21e9cc3_sx_211733_www1284-1271
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_7ca9c9efa3be60dfaf51828ae946eb2d_sx_447560_www790-1315
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gbAYOISC_m_ab122ccd10ac1953176a82aa331337d7_sx_65181_www750-514
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_caf4af1679a47aed2f146d5eeac3080d_sx_136290_www790-672
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb) remark_3605323615890992176_7210647225662243106
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_5a085731a4648db1aa4e5821286f7625_sx_282446_www800-800remark_3630902650725380619_7261805298338414859
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_2abcef97b194627194f6c473f1bd0532_sx_121768_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3624838384452786230_7249676768008012072
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) (Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_0d5b7bd82f44dcb9cbe6777f5144741e_sx_1420770_www2000-2000down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_f652ef67cbb383d40dde34fa047e2819_sx_248138_www790-934
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_c2b6b27ff7f15a2daef597df071db4c2_sx_507877_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_57b1ec9c6cd675fa2f0ac02ec86a573f_sx_125765_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) (Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_b515d25fa4d7bc5800d0429c80dfdc1b_sx_320455_www800-800down img err, url: http://tosv.byted.org/obj/ecom-shop-material/KpJvEHLV_m_b8b90d69e05c2118557c52b8cc709294_sx_450808_www790-982
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_6c85ca66d3bdb7edd409ad3e0c6844d6_sx_385909_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_8dc81f2cec681ed6672436502a1d4297_sx_122729_www800-800
+(Pdb) Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_b6f9350ec8a51ed4739cfb268594dedc_sx_312594_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_38fb534c2dcad294e268e656d63135c1_sx_1057886_www790-1356
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+remark_3620914036201398518_7241867556183753019
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_6c1ef5a59932f0ed26df1e6f22dfdecc_sx_171931_www800-800
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb) > /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_980be2f235f4935318a2ddeeeeb319fc_sx_156105_www800-800
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_a89062a44affbc55cc6fda8f637ec3f1_sx_292699_www800-800Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_aca0e4651ba99119546d7561b7104a1c_sx_368084_www790-921
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1](Pdb)
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_fa969d57b9bd0e1b80b5a06f6352972a_sx_119859_www800-800
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_8ed53b402cb3982e65d7f4f064540216_sx_103098_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_542862bd1badad06ca05dc0f6621a6c8_sx_227691_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_dce410c47f7da5bb6b1a7438b437eca9_sx_714076_www790-1019
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_e32236633c82e3417b740aaca5601cac_sx_124919_www800-800
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_2b897802927fefedcdb01bf1a8c56706_sx_86581_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) > /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_542862bd1badad06ca05dc0f6621a6c8_sx_227691_www800-800
+(Pdb) Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_c415d4947fa360da6298e361788bc3d9_sx_890098_www790-1001
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_df299923ced2c1b7ebaaeca22780e5e2_sx_347489_www790-960
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1](Pdb)
+(Pdb) > /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_37e4e9f0b1ff73d41a89a479de679585_sx_697716_www790-998
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_542862bd1badad06ca05dc0f6621a6c8_sx_227691_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_f622d5726ad25360a37f0e20cd35fc9f_sx_115921_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_fb72e11bdc47bd5172b3443227aeb5fb_sx_258475_www790-960
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_ad1a8c2dadbc76b451732fb7e1cc5676_sx_405100_www790-1003
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1](Pdb)
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_542862bd1badad06ca05dc0f6621a6c8_sx_227691_www800-800
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_eca8a700dfe579d7c4d4fc18a080c1e9_sx_59587_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_3e6d12c645e1bfef8e66a3eeafc31afa_sx_195567_www790-960
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_55a9e81ade70b917de72576e355976ff_sx_1028002_www790-1379
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) (Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_d396a8bf85c74627dc6f23b822aa966c_sx_170289_www800-800down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_542862bd1badad06ca05dc0f6621a6c8_sx_227691_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_99d658eaf209395ae8fa4b173c9b68c8_sx_165093_www790-960
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/rffbnaKx_m_4e68dab279e9e7a673dcb27507d448d3_sx_1170899_www790-1492
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1](Pdb)
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_2e6d75d86cadb206274474d349417ce7_sx_92419_www800-800
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_82b5f41e7a93f3f2c6a07144f8ac37f1_sx_353854_www750-712
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_85adf4f9fa1c6da6655b591f9bacc971_sx_221166_www790-960
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) (Pdb) remark_3620555015606924741_7241110024280490240
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_73d02c6eaad7eed7af7c3bb3d4258664_sx_77635_www800-800
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_fa0b6c08921df811be39f258bf18eda5_sx_469861_www750-1108
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/temai/a450b54dc9cce4fc8fa0823dbd73be85www1268-1268
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wHgqGkQo_m_7fabeaada8f728387e49c81f93482201_sx_281370_www790-960
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) > /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_af76598f7806486cfa41f21ccaa87315_sx_79125_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/AxwmLSqO_m_da8908c0c301f06215d3e397eec180a3_sx_200786_www750-480
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/temai/ce99df66ed6b1d106e036c6249ca3bbfwww800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_12c0f4f3425bfc339754f8032f55d41f_sx_134353_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) > /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb) down img err, url: http://tosv.byted.org/obj/temai/153265370f1b887d2d61675e9b3a9954www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+remark_3597924335261748428_7260055634316493067
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_760a49bd0148c2699c002db5dd03e98f_sx_83621_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_d5b3fc6f0723ae794593198d57f2f58e_sx_123640_www790-1155
+remark_3630215468943600794_7260430933025653046
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/qEWYnnrj_m_576555550e4a9c2ba576f91e44651e5e_sx_61436_www1040-1040
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/temai/29a9aa74041d73fe4dc77e6f833acd7bwww800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_e20380ddb16b6470cb3c63c8ecaf79ce_sx_82245_www800-800
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/wIEWjePW_m_b71fcb72c9befc69ea1c3c87865d257e_sx_74877_www790-849
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/qEWYnnrj_m_6a82a7bc111383bb4971fc799c64a07d_sx_41295_www798-798
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/temai/6106d79e75f6d95cf5aab255146e9c3awww800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_d1edec3062495a13e77d4b7c1c831aa2_sx_92046_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/qEWYnnrj_m_ad0453942f12ad19c51c63865d7cd3cb_sx_97104_www989-989
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/temai/0451cab12762dad474cbc499d9d4c725www790-1117
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_2884f867702582c8416e39db2417cac3_sx_158184_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+remark_3624286882768261450_7248573758355652864
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gRarFOeS_m_aed2d1e713199512e714aa8ff742e500_sx_406514_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) (Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/qEWYnnrj_m_59a969b032aec808c7bc77f7c50c4d3e_sx_38267_www787-436
+down img err, url: http://tosv.byted.org/obj/temai/2bde4069e66e9359d4d2f0fd0c2ec4e9www790-812
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_eb5af2d71d6e63380c207288f984f32d_sx_55139_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gRarFOeS_m_e236377eaa57b07b78cc2c591eb79548_sx_333934_www800-800
+(Pdb) Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+down img err, url: http://tosv.byted.org/obj/temai/aa64cd21bd00a74d76059bdf811c7d37www790-1047
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/qEWYnnrj_m_c8aef1114b4af710411a8abba09bc5cf_sx_1836272_www1100-3641
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_d2855a7e15f1263ec327cc5971b9eff9_sx_82271_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1](Pdb)
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gRarFOeS_m_a14bdbab3bab0f38d9adbb0c25249597_sx_186232_www800-800
+down img err, url: http://tosv.byted.org/obj/temai/46b76b9b25ba7d2935fe341d2fb824e7www790-1047
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/qEWYnnrj_m_c2c02f8c6ed7f91768d5a1d212ff25b8_sx_291911_www1100-1834
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_54811573cfa782576a9ff2f0e27aa4ce_sx_92063_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/temai/c37bab75704dc585eaf41f3d814208dbwww790-1047> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gRarFOeS_m_206cd957c5e0f2db9907e57b03a0e39a_sx_233921_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/qEWYnnrj_m_8475c083764b97a63d7a38dcd0410f48_sx_173086_www1100-936
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_3c2d36998b8cb7f270dcc9d4fb5b092d_sx_76823_www800-800
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/temai/8c58a51368a4b48a1f8ab7992b1e137ewww790-635
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gRarFOeS_m_f661191b223f7357d373eb392844b1a2_sx_285864_www790-946
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/util/data_util.py(200)preprocess_multimodal()
+-> is_multimodal = data_args.is_multimodal
+(Pdb)
+remark_3602697944459001886_7255104087467884858
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb) (Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_7494cdd1f7dd4f7b9da165da0ac42c81_sx_81268_www800-800
+down img err, url: http://tosv.byted.org/obj/temai/2998ef8067842427f1e05586d2da6e28www790-999
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gRarFOeS_m_25c13d0bbcae201390b17d2ab2cd4c34_sx_328957_www790-1178
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/OOTfSjZY_m_1f773c158b96e023dc7e064a7f81b98f_sx_480063_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/lOsmuGaB_m_7c72ccb586a719e503b9fd707477dfbb_sx_77981_www800-800
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+> /opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py(283)read_and_download_img()
+-> name = imgurl.split('/')[-1]
+(Pdb)
+down img err, url: http://tosv.byted.org/obj/ecom-shop-material/gRarFOeS_m_8b91a098041c991331f379068a75d36e_sx_359479_www790-1365
+Traceback (most recent call last):
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 131, in __getitem__
+    image = read_and_download_img(image_file, image_folder)
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/opt/tiger/EasyGuard/examples/valley/valley/data/dataset.py", line 283, in read_and_download_img
+    name = imgurl.split('/')[-1]
+  File "/usr/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
