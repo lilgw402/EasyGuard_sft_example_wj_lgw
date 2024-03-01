@@ -267,7 +267,6 @@ class LLMCallback(TrainerCallback):
     ):
         # TODO: support deepspeed zero3 save extra weights not all llm weights
         #检查是否启用 LoRA 策略并且是否满足保存策略的条件，例如达到了指定的保存步骤
-        breakpoint()
         if args.lora_enable and args.lora_save_strategy == 'steps' and state.global_step%args.save_steps == 0:
             self.output_log(args, state)
             model_ = kwargs["model"]
@@ -513,7 +512,7 @@ def train(args):
     #     trainer.train(resume_from_checkpoint=True)
     # else:
     trainer.train()
-    
+    breakpoint()
     #模型结果保存
     trainer.save_state()
 

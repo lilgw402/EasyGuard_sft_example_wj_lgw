@@ -147,7 +147,6 @@ class LazySupervisedDataset(Dataset):
                     self.data_args)
 
                 image = image_list #一个batch的图片数据
-                print("image_list=====================",image)
             #对于视频
             elif 'video' in sources[0]:                                                     ### for video file or folder
                 video_file = self.list_data_dict[i]['video']
@@ -203,12 +202,11 @@ class LazySupervisedDataset(Dataset):
                 has_image=('image' in self.list_data_dict[i] or 'video' in self.list_data_dict[i]),
                 only_mask_system= self.data_args.only_mask_system,
                 inference = self.inference)
-            print("data_dict====================",data_dict)
             #处理完数据后，它被格式化为一个包含 `input_ids`、`labels` 和 `image` 键的字典，分别对应于输入标记、标签标记和图像数据。如果原始数据中有 `id` 或 `label`，这些也会包含在输出字典中。
             if isinstance(i, int):
                 data_dict = dict(input_ids=data_dict["input_ids"][0],
                                 labels=data_dict["labels"][0])
-            # image exist in the data
+            # image exist in the data,data_dict中增加image信息
             if 'image' in self.list_data_dict[i] or 'video' in self.list_data_dict[i]:
                 data_dict['image'] = image
             elif self.data_args.is_multimodal:
@@ -219,7 +217,6 @@ class LazySupervisedDataset(Dataset):
                 data_dict['label'] = self.list_data_dict[i]['label']
             if 'id' in self.list_data_dict[i]:
                 data_dict['id'] = self.list_data_dict[i]['id']
-            print("final_data_dict====================",data_dict)
             return data_dict
         except Exception as e:
             traceback.print_exc()
