@@ -193,7 +193,7 @@ def _add_speaker_and_signal(header, source, get_conversation=True, inference = F
 
 
 def preprocess_multimodal(
-    sources: Sequence[str], #字符串序列（`sources`）作为输入，其中每个字符串包含可能带有特殊多媒体标记的对话消息。
+    sources: Sequence[str], #字符串序列（`sources`）作为输入，其中每个字符串包含可能带有特殊多媒体标记的对话消息。conversations的部分
     data_args,
 ) -> Dict:
     is_multimodal = data_args.is_multimodal
@@ -201,7 +201,7 @@ def preprocess_multimodal(
         return sources #如果不是多模态数据，则立即返回未修改的 `sources`
 
     for source in sources:
-        for sentence in source:
+        for sentence in source: #source就是conversations的部分，里面分别是from human和from gpt
             if data_args.model_class == 'valley-product': #可能涉及到支持特定于 `'valley-product'` 配置的图像处理（例如多图像支持）
                 # for multi image
                 segs = re.split(r'<image[\d]*>',sentence["value"]) #按（图像标记）拆分句子
@@ -213,7 +213,6 @@ def preprocess_multimodal(
                 if data_args.mm_use_im_start_end:
                     replace_token = DEFAULT_IM_START_TOKEN + replace_token + DEFAULT_IM_END_TOKEN
                 sentence["value"] = sentence["value"].replace(DEFAULT_IMAGE_TOKEN, replace_token)
-            
             else:
                 if DEFAULT_IMAGE_TOKEN in sentence['value'] or DEFAULT_VIDEO_TOKEN in sentence['value']:
                     sentence['value'] = sentence['value'].replace(DEFAULT_IMAGE_TOKEN, '').strip()
@@ -579,9 +578,9 @@ def preprocess_plain(
 
 
 def preprocess(
-    sources: Sequence[str],
+    sources: Sequence[str], #对话文本的列表
     tokenizer: transformers.PreTrainedTokenizer,
-    has_image: bool = False,
+    has_image: bool = False, #入数据中包含图像
     only_mask_system: bool = False,
     inference: bool = False
 ) -> Dict:
@@ -592,6 +591,7 @@ def preprocess(
     3. Tokenize the concatenated conversation;
     4. Make a deepcopy as the target. Mask human words with IGNORE_INDEX.
     """
+    #根据不同的分隔样式调用不同的预处理函数
     if conversation_lib.default_conversation.sep_style == conversation_lib.SeparatorStyle.PLAIN:
         return preprocess_plain(sources, tokenizer)
     if conversation_lib.default_conversation.sep_style == conversation_lib.SeparatorStyle.LLAMA_2:
@@ -603,9 +603,12 @@ def preprocess(
     if conversation_lib.default_conversation.version == "mistral":
         return preprocess_mistral(sources, tokenizer, has_image=has_image, inference = inference)
     # add end signal and concatenate together
+    #如果上述条件都不满足，代码会进入一个循环，遍历 `sources` 中的每个对话，为每个对话添加一个定义的系统信号（`conversation_lib.default_conversation.system`）
+    #然后使用 `_add_speaker_and_signal` 函数进行进一步处理。
     conversations = []
     for source in sources:
         header = f"{conversation_lib.default_conversation.system}\n\n"
+        #主要用于向对话中的每个句子添加发言者角色和对话的开始/结束标志。函数的目的是格式化源对话，使其适合进一步处理或模型的推断
         conversation = _add_speaker_and_signal(header, source, inference = inference)
         conversations.append(conversation)
     # print(f'conversation: {conversation}')
@@ -613,20 +616,25 @@ def preprocess(
     # tokenize conversations
     def get_tokenize_len(prompts):
         return [len(tokenizer_image_token(prompt, tokenizer)) for prompt in prompts]
-
+    
+    #接着，函数对添加了信号的对话进行分词，具体操作依赖于是否有图像数据。
+    # 如果 `has_image` 为 True，则会针对每个对话调用 `tokenizer_image_token` 函数。
     if has_image:
         input_ids = [tokenizer_image_token(prompt, tokenizer, return_tensors='pt') for prompt in conversations]
     else:
+        # 否则，使用 `_tokenize_fn` 函数对文本进行标准分词，并获取 `input_ids`。
         conversations_tokenized = _tokenize_fn(conversations, tokenizer)
         input_ids = conversations_tokenized["input_ids"]
 
-    targets = copy.deepcopy(input_ids)
+    targets = copy.deepcopy(input_ids) #使用 `copy.deepcopy(input_ids)` 创建了 `input_ids` 的深复制副本作为目标（`targets`），
+    #接下来，对每个 `target` 和对应的 `source` 进行循环，分别为有图像和无图像的情况计算分词长度，并记录每个句子的发言者。
     for target, source in zip(targets, sources):
         if has_image:
             tokenized_lens = get_tokenize_len([header] + [s["value"] for s in source])
         else:
             tokenized_lens = _tokenize_fn([header] + [s["value"] for s in source], tokenizer)["input_ids_lens"]
         speakers = [sentence["from"] for sentence in source]
+        #使用 `_mask_targets` 函数对目标进行掩盖，这里掩盖的目的是在训练中隐藏某些信息，例如只掩盖系统发出的单词，而保留用户的原话
         _mask_targets(target, tokenized_lens, speakers, only_mask_system = only_mask_system )
 
     return dict(input_ids=input_ids, labels=targets)

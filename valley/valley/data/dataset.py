@@ -93,7 +93,8 @@ class LazySupervisedDataset(Dataset):
 
     #获取给定索引（i）的输入数据，进行处理，并以准备好的格式返回，以便模型训练或推理使用
     def __getitem__(self, i) -> Dict[str, torch.Tensor]:
-        sources = self.list_data_dict[i] #获取索引为 `i` 的数据实例。
+        sources = self.list_data_dict[i] #获取索引为 `i` 的数据实例(一个样本，包含id，image列表，conversations，label)。
+        print("sources===================",sources)
         try:
             if isinstance(i, int):
                 sources = [sources]
@@ -128,7 +129,7 @@ class LazySupervisedDataset(Dataset):
                     try:
                         if self.inference:
                             image_folder = os.path.join(image_folder, self.list_data_dict[i]['id'].split('_')[1])
-                        image = read_and_download_img(image_file, image_folder)
+                        image = read_and_download_img(image_file, image_folder) #图片数据
                     except:
                         print(f'down img err, url: {image_file}')
                         print(traceback.format_exc())
@@ -140,11 +141,13 @@ class LazySupervisedDataset(Dataset):
                         image = processor.preprocess(image, return_tensors='pt')['pixel_values'][0]
                     image_list.append(image)
                 image_list =  torch.stack(image_list, dim = 0)
-                #调用 `preprocess_multimodal` 函数处理文本数据（对话）
+                #调用 `preprocess_multimodal` 函数处理文本数据（对话，conversations的部分），主要是处理图片的标识
                 sources = preprocess_multimodal(
-                    copy.deepcopy([e["conversations"] for e in sources]),
+                    copy.deepcopy([e["conversations"] for e in sources]), #只传入conversations的部分
                     self.data_args)
-                image = image_list
+
+                image = image_list #一个batch的图片数据
+                print("image_list=====================",image)
             #对于视频
             elif 'video' in sources[0]:                                                     ### for video file or folder
                 video_file = self.list_data_dict[i]['video']
@@ -194,12 +197,13 @@ class LazySupervisedDataset(Dataset):
                 sources[0] = sources[0][:-1]
             #利用 `preprocess` 函数创建了 `data_dict`，它对对话数据进行标记化处理，并可能根据模态对文本数据应用遮蔽
             # 如果模型是多模态的，但当前数据点不包含图像或视频，则创建一个适当维度的零张量来表示空的视觉输入。
-            data_dict = preprocess(
-                sources,
+            data_dict = preprocess( 
+                sources, #对话文本的列表
                 self.tokenizer,
                 has_image=('image' in self.list_data_dict[i] or 'video' in self.list_data_dict[i]),
                 only_mask_system= self.data_args.only_mask_system,
                 inference = self.inference)
+            print("data_dict====================",data_dict)
             #处理完数据后，它被格式化为一个包含 `input_ids`、`labels` 和 `image` 键的字典，分别对应于输入标记、标签标记和图像数据。如果原始数据中有 `id` 或 `label`，这些也会包含在输出字典中。
             if isinstance(i, int):
                 data_dict = dict(input_ids=data_dict["input_ids"][0],
@@ -215,6 +219,7 @@ class LazySupervisedDataset(Dataset):
                 data_dict['label'] = self.list_data_dict[i]['label']
             if 'id' in self.list_data_dict[i]:
                 data_dict['id'] = self.list_data_dict[i]['id']
+            print("final_data_dict====================",data_dict)
             return data_dict
         except Exception as e:
             traceback.print_exc()
@@ -290,5 +295,5 @@ def read_and_download_img(imgurl, image_folder='/mnt/bn/yangmin-priv-fashionmm/D
         print('image not exist, download it', img_path)
         image_data = urllib.request.urlopen(imgurl, timeout=2).read()
         img_data = Image.open(BytesIO(image_data)).convert('RGB')
-        img_data.save(img_path, format="PNG")
+        # img_data.save(img_path, format="PNG") #没有权限
     return img_data
