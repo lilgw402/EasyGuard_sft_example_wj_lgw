@@ -384,9 +384,10 @@ def train(args):
         else:
             raise ValueError(f"Unknown Model Class.")
     #如果设置了 `freeze_backbone`，则会冻结模型中的参数，防止在训练过程中被更新。
+    breakpoint()
     model.config.use_cache = False   
-    if training_args.freeze_backbone:
-        model.model.requires_grad_(False)
+    if training_args.freeze_backbone: #True
+        model.model.requires_grad_(False) #模型的主干部分会被冻结。这通常在fine-tuning的场景中出现，目的是为了只更新模型的特定部分，而不是整个模型。
 
     if training_args.bits in [4, 8]:
         from peft import prepare_model_for_kbit_training

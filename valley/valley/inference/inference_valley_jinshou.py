@@ -25,14 +25,14 @@ from valley.util import ddp_utils as utils
 
 os.environ['NCCL_DEBUG']=''
 
-
+#标准化函数
 def standardization(data):
     mu = torch.mean(data)
     sigma = torch.std(data)
     return (data - mu) / sigma
 
 def inference(args):
-    set_seed(42)
+    set_seed(42) #设置随机种子以确保可复现性。
     print(args)
     utils.init_distributed_mode(args)
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -41,6 +41,7 @@ def inference(args):
         
     disable_torch_init()
 
+    #加载模型
     Model = None
     if args.model_class == 'valley-video':
         Model = ValleyVideoLlamaForCausalLM
@@ -50,6 +51,7 @@ def inference(args):
     model_name = os.path.expanduser(args.model_name)
 
     # load model
+    # 如果模型名称中包含`'lora'`，则应用特定加载策略，加载包含LoRA层的模型。
     if 'lora' in model_name:
         config = PeftConfig.from_pretrained(model_name)
         print('load old model weight and lora weight')
@@ -80,6 +82,7 @@ def inference(args):
     
 
 
+    #选择中文或其他语言的CLIP图像处理器并加载。
     if args.language == 'chinese':
         from transformers import ChineseCLIPImageProcessor as CLIPImageProcessor
     else:
@@ -94,6 +97,7 @@ def inference(args):
     args.mm_use_im_start_end = True
     args.only_mask_system = False
     
+    #根据版本信息对语言模型的tokenizer进行适当配置
     if args.version == "v0":
         if tokenizer.pad_token is None:
             smart_tokenizer_and_embedding_resize(
@@ -110,6 +114,7 @@ def inference(args):
         else:
             conversation_lib.default_conversation = conversation_lib.conv_templates["vicuna_v1"]
 
+    #加载数据集和数据加载器
     if args.prompt_version is not None:
         conversation_lib.default_conversation = conversation_lib.conv_templates[args.prompt_version]
     dataset = LazySupervisedDataset(args.data_path, tokenizer=tokenizer, data_args = args, inference= True)
